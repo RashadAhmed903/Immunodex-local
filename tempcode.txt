@@ -1,0 +1,278 @@
+<div id="aboutx" class="section" style="background-color: #263458;">
+			<div class="container">
+				<!-- Section Heading -->
+				<div class="section-heading center">
+					<!-- <h2 class="heading text-indigo">
+						Accordion Showcase
+					</h2> -->
+					<!-- <p class="paragraph">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+					</p> -->
+
+				</div><!-- .section-heading -->
+				<!-- UI Accordion Showcase -->
+				<div class="ui-accordion-showcase row">
+
+					<!-- Device Slider Column -->
+					<div class="col-lg-6 col-md-5 animate fade-in-left animated" data-show="fade-in-left">
+						<!-- Device Slider -->
+						<div class="ui-device-slider">
+							<!-- Device Image -->
+							<div class="device">
+								<!-- <img src="assets/img/device-slider/device.png" data-uhd=""
+									alt="Applify - App Landing HTML Template"> -->
+									<img src="aboutSectionImg/aboutImg.png" style="width: 100%;">
+							</div>
+						</div><!-- .ui-device-slider -->
+					</div><!-- Device Slider Column -->
+
+					<!-- Accordion Column -->
+					<div class="col-lg-6 col-md-7" data-vertical_center="true">
+						<!-- Accordion -->
+						<div class="ui-accordion-panel">
+
+							<div class="section-heading mb-2">
+								<p class="paragraph bodyFont media990" style="color: white;">
+									ID’s can be faked. With stakes so high, how can anyone be trusted?
+								</p>
+								<h2 class="heading headlinesFont media990" style="color: white;">
+	
+									We solve this using blockchain.
+	
+								</h2>
+								<p class="paragraph bodyFont media990" style="color: white;">
+									Immunodex ensures that all transactions are secure and unalterable with the Pedersen
+									commitment scheme.
+								</p>
+							</div><!-- .section-heading -->
+							
+							<ul class="ui-checklist media990" >
+								<li class="ui-icon-block">
+									<span class="icon"></span>
+									<p class="bodyFont" style="color: white;">
+										<!-- <i class="fas fa-check-circle"></i>  -->
+										Self-sovereign, meaning consent-based and
+										privacy-preserving. Specific data can be
+										anonymized via zero-knowledge proof cryptography
+									</p>
+									<!-- <a href="contactUs.html" style="color: white;" class="btn-link btn-arrow">
+										Learn More
+									</a> -->
+								</li>
+								<li class="ui-icon-block">
+									<span class="icon"></span>
+									<p class="bodyFont" style="color: white;">
+										<!-- <i class=" fas fa-check-circle"></i> -->
+										Option to digitally sign with revocable ring
+										signatures for higher
+										privacy
+										protection
+	
+									</p>
+									<!-- <a href=" contactUs.html" style="color: white;" class="btn-link btn-arrow">
+										Learn More
+										</a> -->
+								</li>
+								<li class="ui-icon-block">
+									<span class="icon"></span>
+									<p class="bodyFont" style="color: white;">
+										<!-- <i class="fas fa-check-circle"></i>  -->
+										Safeguard against theft and fraud with complete
+										traceability in data provenance
+									</p>
+									<!-- <a href="contactUs.html" style="color: white;" class="btn-link btn-arrow">
+										Learn More
+									</a> -->
+								</li>
+								<li class="ui-icon-block">
+									<span class="icon"></span>
+									<p class="bodyFont" style="color: white;">
+										<!-- <i class="fas fa-check-circle"></i>  -->
+										GDPR-compliant (we’re working towards HIPAA
+										compliance) <a style="display: none;" href="./pdf/whitePaper.pdf"
+											download="immunodex-whitepaper">Download Whitepaper</a>
+	
+									</p>
+									<!-- <a href="contactUs.html" style="color: white;" class="btn-link btn-arrow">
+										Learn More
+									</a> -->
+								</li>
+							</ul>
+
+						</div><!-- .ui-accordion-panel -->
+					</div><!-- Accordion Column -->
+
+				</div><!-- .row -->
+			</div><!-- .container -->
+		</div>
+
+
+
+
+
+// section2
+
+		<div id="about" class="section" style="background-color: #263458;">
+			<div class="container">
+				<div class="row">
+
+					<!-- Left Column -->
+					<div class="col-lg-5 col-xl-6" data-vertical_center="true">
+
+						<!-- Section Heading -->
+						<div class="section-heading mb-2">
+							<p class="paragraph bodyFont" style="color: white;">
+								ID’s can be faked. With stakes so high, how can anyone be trusted?
+							</p>
+							<h2 class="heading headlinesFont" style="color: white;">
+
+								We solve this using blockchain.
+
+							</h2>
+							<p class="paragraph bodyFont" style="color: white;">
+								Immunodex ensures that all transactions are secure and unalterable with the Pedersen
+								commitment scheme.
+							</p>
+						</div><!-- .section-heading -->
+
+						<ul class="ui-checklist">
+							<li class="ui-icon-block">
+								<span class="icon"></span>
+								<p class="bodyFont" style="color: white;">
+									<!-- <i class="fas fa-check-circle"></i>  -->
+									Self-sovereign, meaning consent-based and
+									privacy-preserving. Specific data can be
+									anonymized via zero-knowledge proof cryptography
+								</p>
+								<!-- <a href="contactUs.html" style="color: white;" class="btn-link btn-arrow">
+									Learn More
+								</a> -->
+							</li>
+							<li class="ui-icon-block">
+								<span class="icon"></span>
+								<p class="bodyFont" style="color: white;">
+									<!-- <i class=" fas fa-check-circle"></i> -->
+									Option to digitally sign with revocable ring
+									signatures for higher
+									privacy
+									protection
+
+								</p>
+								<!-- <a href=" contactUs.html" style="color: white;" class="btn-link btn-arrow">
+									Learn More
+									</a> -->
+							</li>
+							<li class="ui-icon-block">
+								<span class="icon"></span>
+								<p class="bodyFont" style="color: white;">
+									<!-- <i class="fas fa-check-circle"></i>  -->
+									Safeguard against theft and fraud with complete
+									traceability in data provenance
+								</p>
+								<!-- <a href="contactUs.html" style="color: white;" class="btn-link btn-arrow">
+									Learn More
+								</a> -->
+							</li>
+							<li class="ui-icon-block">
+								<span class="icon"></span>
+								<p class="bodyFont" style="color: white;">
+									<!-- <i class="fas fa-check-circle"></i>  -->
+									GDPR-compliant (we’re working towards HIPAA
+									compliance) <a style="display: none;" href="./pdf/whitePaper.pdf"
+										download="immunodex-whitepaper">Download Whitepaper</a>
+
+								</p>
+								<!-- <a href="contactUs.html" style="color: white;" class="btn-link btn-arrow">
+									Learn More
+								</a> -->
+							</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-7 col-xl-6">
+						<div class="col imgPosition">
+							<img src="images/Artboard.png" class="imgWidth" width="100%">
+						</div>
+						<!-- <div class="ui-logos-cloud">
+							<div data-size="4" class="mt-0 animate fade-in animated" data-show="fade-in"
+								style="width: 40px; height: 40px;">
+								<img src="dotsImages/0.png" data-uhd="">
+							</div>
+							<div data-size="10" class="mt-0 animate fade-in animated" data-show="fade-in"
+								style="width: 100px; height: 100px;">
+								<img src="dotsImages/10002.png" data-uhd="">
+							</div>
+							<div data-size="7" class="mt-0 animate fade-in animated" data-show="fade-in"
+								style="width: 70px; height: 70px;">
+								<img src="dotsImages/4002.png" data-uhd="">
+							</div>
+
+							<span class="flex-break"></span>
+
+							<div data-size="4" class="animate fade-in animated" data-show="fade-in"
+								style="width: 40px; height: 40px;">
+								<img src="dotsImages/5\1.png" data-uhd="">
+							</div>
+							<div data-size="10" class="animate fade-in animated" data-show="fade-in"
+								style="width: 100px; height: 100px;">
+								<img src="dotsImages/10003.png" data-uhd="">
+							</div>
+							<div data-size="4" class="animate fade-in animated" data-show="fade-in"
+								style="width: 40px; height: 40px;">
+								<img src="dotsImages/6.png" data-uhd="">
+							</div>
+							<div data-size="6" class="animate fade-in animated" data-show="fade-in"
+								style="width: 60px; height: 60px;">
+								<img src="dotsImages/5.png" data-uhd="">
+							</div>
+							<div data-size="3" class="animate fade-in animated" data-show="fade-in"
+								style="width: 30px; height: 30px;">
+								<img src="dotsImages/0.png" data-uhd="">
+							</div>
+							<span class="flex-break"></span>
+
+							<div data-size="8" class="animate fade-in animated" data-show="fade-in"
+								style="width: 80px; height: 80px;">
+								<img src="dotsImages/7.png" data-uhd="">
+							</div>
+							<div data-size="3" class="animate fade-in animated" data-show="fade-in"
+								style="width: 30px; height: 30px;">
+								<img src="dotsImages/0.png" data-uhd="">
+							</div>
+							<div data-size="10" class="animate fade-in animated" data-show="fade-in"
+								style="width: 100px; height: 100px;">
+								<img src="dotsImages/10004.png" data-uhd="">
+							</div>
+							<div data-size="5" class="animate fade-in animated" data-show="fade-in"
+								style="width: 50px; height: 50px;">
+								<img src="dotsImages/1.png" data-uhd="">
+							</div>
+
+							<span class="flex-break"></span>
+
+							<div data-size="3" class="animate fade-in animated" data-show="fade-in"
+								style="width: 30px; height: 30px;">
+								<img src="dotsImages/3003.png" data-uhd="">
+							</div>
+							<div data-size="10" class="animate fade-in animated" data-show="fade-in"
+								style="width: 100px; height: 100px;">
+								<img src="dotsImages/10001.png" data-uhd="">
+							</div>
+							<div data-size="7" class="animate fade-in animated" data-show="fade-in"
+								style="width: 70px; height: 70px;">
+								<img src="dotsImages/4001.png" data-uhd="">
+							</div>
+
+
+							<span class="flex-break"></span>
+
+							<div data-size="4" class="mb-0 animate fade-in animated" data-show="fade-in"
+								style="width: 40px; height: 40px;">
+								<img src="assets/img/3rd-party-logos/logo.png" data-uhd="">
+							</div>
+						</div> -->
+
+					</div>
+				</div><!-- .row -->
+			</div><!-- .container -->
+		</div>
